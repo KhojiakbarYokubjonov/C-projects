@@ -1,2 +1,1 @@
-# C-projects
-Mixed C projects
+### This repository contains several projects written in **C**.
