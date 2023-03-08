@@ -1,4 +1,4 @@
-#### It implements the Beaufort cipher for encrypting messages.
+### It implements the Beaufort cipher for encrypting messages.
 It requires a key for encryption. `beaufort.c` expects that the first line it gets on
 standard input will be the value of the key (a char sequence with only upper-case alphabetical letters). All
 remaining lines it can expect will be input strings to encrypt. The program ends when it encounters its first
